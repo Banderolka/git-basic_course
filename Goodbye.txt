@@ -1,0 +1,4 @@
+class Goodbye {
+System.out.println("Goodbye Worlld")
+System.out.println("Goodbye")
+}
